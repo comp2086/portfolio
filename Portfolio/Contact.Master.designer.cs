@@ -10,7 +10,7 @@
 namespace Portfolio {
     
     
-    public partial class Home {
+    public partial class Contact {
         
         /// <summary>
         /// head control.
