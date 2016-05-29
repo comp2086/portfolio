@@ -31,15 +31,6 @@ namespace Portfolio.User_Controls {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl aboutme;
         
         /// <summary>
-        /// services control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
-        
-        /// <summary>
         /// projects control.
         /// </summary>
         /// <remarks>
@@ -47,6 +38,15 @@ namespace Portfolio.User_Controls {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl projects;
+        
+        /// <summary>
+        /// services control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl services;
         
         /// <summary>
         /// contact control.
