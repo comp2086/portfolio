@@ -40,6 +40,15 @@ namespace Portfolio {
         protected global::Portfolio.User_Controls.Navbar Navbar;
         
         /// <summary>
+        /// PageHeading control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Portfolio.User_Controls.Heading PageHeading;
+        
+        /// <summary>
         /// MainContent control.
         /// </summary>
         /// <remarks>

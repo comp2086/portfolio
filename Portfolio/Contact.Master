@@ -1,4 +1,11 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Contact.master.cs" Inherits="Portfolio.Contact" %>
+﻿<!--
+  File name: Contact.Master
+  Author: Alex Andriishyn
+  Website: aportfolio.azurewebsites.net
+  Description: Contact master page
+-->
+
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Contact.master.cs" Inherits="Portfolio.Contact" %>
 
 <!DOCTYPE html>
 
@@ -19,6 +26,7 @@
 <body>
     <form id="form1" runat="server">
         <bs3:Navbar runat="server" ID="Navbar" />
+        <bs3:Heading runat="server" ID="PageHeading" />
         <div>
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>

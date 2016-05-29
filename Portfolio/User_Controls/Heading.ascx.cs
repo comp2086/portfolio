@@ -1,8 +1,8 @@
 ﻿/**
- * File name: Projects.aspx.cs
+ * File name: Heading.ascx.cs
  * Author: Alex Andriishyn
  * Website: aportfolio.azurewebsites.net
- * Description: code behind for the Projects page
+ * Description: code behind for the Heading uc
  */
 
 using System;
@@ -12,14 +12,15 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace Portfolio
+namespace Portfolio.User_Controls
 {
-    public partial class Projects : System.Web.UI.Page
+    public partial class Heading : System.Web.UI.UserControl
     {
+        public string text { get; set; }
+
         protected void Page_Load(object sender, EventArgs e)
         {
-            // Set the page header
-            Master.Heading = "My Projects";
+            h1.InnerText = text;
         }
     }
 }

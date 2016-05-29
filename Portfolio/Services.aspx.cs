@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**
+ * File name: Services.aspx.cs
+ * Author: Alex Andriishyn
+ * Website: aportfolio.azurewebsites.net
+ * Description: code behind for the Services page
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +18,8 @@ namespace Portfolio
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            // Set the page header
+            Master.Heading = "Services";
         }
     }
 }

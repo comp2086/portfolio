@@ -7,21 +7,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Portfolio {
+namespace Portfolio.User_Controls {
     
     
-    public partial class Default {
+    public partial class Heading {
         
         /// <summary>
-        /// Master property.
+        /// h1 control.
         /// </summary>
         /// <remarks>
-        /// Auto-generated property.
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        public new Portfolio.Home Master {
-            get {
-                return ((Portfolio.Home)(base.Master));
-            }
-        }
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl h1;
     }
 }

@@ -1,4 +1,11 @@
-﻿using System;
+﻿/**
+ * File name: Navbar.ascx.cs
+ * Author: Alex Andriishyn
+ * Website: aportfolio.azurewebsites.net
+ * Description: code behind for the Navbar uc
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
