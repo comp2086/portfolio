@@ -71,7 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AboutMe.aspx" />
-    <Content Include="Contact.aspx" />
+    <Content Include="ContactMe.aspx" />
     <Content Include="Content\app.css" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -129,12 +129,12 @@
     <Compile Include="AboutMe.aspx.designer.cs">
       <DependentUpon>AboutMe.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Contact.aspx.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
+    <Compile Include="ContactMe.aspx.cs">
+      <DependentUpon>ContactMe.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Contact.aspx.designer.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
+    <Compile Include="ContactMe.aspx.designer.cs">
+      <DependentUpon>ContactMe.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contact.Master.cs">
       <DependentUpon>Contact.Master</DependentUpon>

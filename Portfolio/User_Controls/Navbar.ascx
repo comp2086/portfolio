@@ -26,7 +26,7 @@
         <li id="aboutme" runat="server"><a href="AboutMe.aspx"><i class="fa fa-info-circle fa-lg"></i> About Me</a></li>
         <li id="projects" runat="server"><a href="Projects.aspx"><i class="fa fa-folder-open fa-lg"></i> Projects</a></li>
         <li id="services" runat="server"><a href="Services.aspx"><i class="fa fa-usd fa-lg"></i> Services</a></li>
-        <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-envelope fa-lg"></i> Contact Me</a></li>
+        <li id="contact" runat="server"><a href="ContactMe.aspx"><i class="fa fa-envelope fa-lg"></i> Contact Me</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
