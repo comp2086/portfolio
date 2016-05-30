@@ -37,7 +37,7 @@ namespace Portfolio
         {
             // Send email
             var from = txtEmail.Text;
-            var subject = "New Portfolio message from " + txtFirstName.Text + " " + txtLastName.Text;
+            var subject = "Portfolio Message: " + txtFirstName.Text + " " + txtLastName.Text + ", " + from;
             var body = txtMessage.Text;
 
             MailMessage mail = new MailMessage(from, EMAIL_ADDRESS, subject, body);
@@ -45,11 +45,11 @@ namespace Portfolio
             EMAIL_SERVER.UseDefaultCredentials = false;
             EMAIL_SERVER.Credentials = EMAIL_ACCOUNT;
 
-            // Appologize if the message failed
+            // Appologize if a message failed
             try
             {
                 EMAIL_SERVER.Send(mail);
-                MessengerForm.InnerHtml = "<h2>Great success!</h2>";
+                MessengerForm.InnerHtml = "<h2>Your message has been sent.</h2>";
             }
             catch
             {
