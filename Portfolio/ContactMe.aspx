@@ -26,7 +26,7 @@
                         </div>
                         <div class="form-group text-right">
                             <asp:Button CssClass="btn btn-default" ID="btnCancel" runat="server" Text="Cancel" CausesValidation="False" OnClick="btnCancel_Click" UseSubmitBehavior="False" />
-                            <asp:Button CssClass="btn btn-info" ID="btnSubmit" runat="server" Text="Send" OnClick="btnSubmit_Click" />
+                            <asp:Button CssClass="btn btn-primary" ID="btnSubmit" runat="server" Text="Send" OnClick="btnSubmit_Click" />
                         </div>
                     </div>
                 </div>
