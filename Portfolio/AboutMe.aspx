@@ -14,8 +14,8 @@
                         <table class="table">
                             <tbody>
                                 <tr>
-                                    <td>First Name:</td>
-                                    <td>Oleksandr</td>
+                                    <td class="borderless">First Name:</td>
+                                    <td class="borderless">Oleksandr</td>
                                 </tr>
                                 <tr>
                                     <td>Last Name:</td>

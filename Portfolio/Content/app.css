@@ -33,3 +33,8 @@ body {
 .panel-heading a.collapsed:after {
     content:"\e080";
 }
+
+/* No border class */
+.borderless {
+    border: none !important; 
+}
