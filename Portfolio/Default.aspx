@@ -5,7 +5,7 @@
     <div class="container">
         <div class="row">
             <div class="column-md-12 text-center">
-                <img src="Assets/sdlc.gif" />
+                <img src="Assets/home.png" />
             </div>
         </div>
     </div>

@@ -6,12 +6,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 col-md-offset-2">
-                <div class="panel panel-primary">
-                    <div class="panel-heading">
-                        <h3>
-                            Profile
-                        </h3>
-                    </div>
+                <div class="panel panel-default">
                     <div class="table-responsive">
                         <table class="table">
                             <tbody>
