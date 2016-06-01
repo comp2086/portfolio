@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AboutMe.aspx" />
+    <Content Include="Assets\charitycan.gif" />
     <Content Include="Assets\sdlc.gif" />
     <Content Include="ContactMe.aspx" />
     <Content Include="Content\app.css" />
