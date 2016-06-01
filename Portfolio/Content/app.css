@@ -1,5 +1,23 @@
 ﻿/* Custom CSS */
 
+/* Bold text for every td that is the first descendand of <tr> */
 td:first-child {
     font-weight: bold;
+}
+
+/* Sticky footer at the bottom */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: auto;
+  background-color: #333;
+  color: #9d9d9d;
 }
