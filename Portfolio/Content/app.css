@@ -1,4 +1,9 @@
-﻿/* Custom CSS */
+﻿/* 
+    File name: app.css
+    Author: Alex Andriishyn
+    Website: aportfolio.azurewebsites.net
+    Description: Custom CSS styles
+*/
 
 /* Bold text for every td that is the first descendand of <tr> */
 td:first-child {
