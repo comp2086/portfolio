@@ -17,7 +17,7 @@
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <h4>Version control</h4>
-                        Most of the time, I use Git as the main source control system. I also use Team Foundation Services via Git and Bitbucket.
+                        Most of the time, I use GitHub as the main source control system. I also use Team Foundation Services via Git and Bitbucket.
                     </div>
                 </div>
             </div>

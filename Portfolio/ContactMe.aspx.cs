@@ -49,11 +49,11 @@ namespace Portfolio
             try
             {
                 EMAIL_SERVER.Send(mail);
-                MessengerForm.InnerHtml = "<h2>Your message has been sent.</h2>";
+                MessengerForm.InnerHtml = "<h3>Your message has been sent.</h3>";
             }
             catch
             {
-                MessengerForm.InnerHtml = "<h2>Sorry...</h2>";
+                MessengerForm.InnerHtml = "<h3>Sorry, there was a problem with sending your message, please try again later.</h3>";
             }
         }
     }
