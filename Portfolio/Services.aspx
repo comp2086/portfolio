@@ -12,19 +12,6 @@
                         Currently, I work with Microsoft Azure, Digital Ocean, Heroku and Google App Engine
                     </div>
                 </div>
-                <div class="panel panel-default">
-                    <div class="panel-body">
-                        <h4>Frameworks</h4>
-                        For back-end, I primarily use ASP.NET, Node, and PHP.
-                        For front-end, I use Angular and React.
-                    </div>
-                </div>
-                <div class="panel panel-default">
-                    <div class="panel-body">
-                        <h4>Operation Systems</h4>
-                        OS X, Ubuntu and Windows 10
-                    </div>
-                </div>
             </div>
             <div class="col-md-4">
                 <div class="panel panel-default">
@@ -33,6 +20,29 @@
                         Most of the time, I use Git as the main source control system. I also use Team Foundation Services via Git and Bitbucket.
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-md-offset-2">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h4>Frameworks</h4>
+                        For back-end, I primarily use ASP.NET, Node, and PHP.
+                        For front-end, I use Angular and React.
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h4>Operation Systems</h4>
+                        OS X, Ubuntu and Windows 10
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-md-offset-2">
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <h4>Editors</h4>
