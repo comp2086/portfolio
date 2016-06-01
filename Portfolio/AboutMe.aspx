@@ -34,7 +34,7 @@
                                 <tr>
                                     <td>Skills:</td>
                                     <td>
-                                        <p>Java, C#, VB, PHP, JavaScript, SQL, Mongo</p>
+                                        <p>Java, C#, VB, PHP, JavaScript, SQL, NoSQL</p>
                                         <p>ASP.NET, Node, React, Angular</p>
                                         <p>GitHub, TFS</p>
                                     </td>

@@ -1,4 +1,11 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Footer.ascx.cs" Inherits="Portfolio.User_Controls.Footer" %>
+﻿<!--
+  File name: Footer.ascx
+  Author: Alex Andriishyn
+  Website: aportfolio.azurewebsites.net
+  Description: Footer user control
+-->
+
+<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Footer.ascx.cs" Inherits="Portfolio.User_Controls.Footer" %>
 
 <footer class="footer">
     <div class="container">

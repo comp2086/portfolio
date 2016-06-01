@@ -1,8 +1,8 @@
 ﻿/**
- * File name: Contact.aspx.cs
+ * File name: ContactMe.aspx.cs
  * Author: Alex Andriishyn
  * Website: aportfolio.azurewebsites.net
- * Description: code behind for the Contact page
+ * Description: code behind for the ContactMe page
  */
 
 using System;

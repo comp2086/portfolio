@@ -16,6 +16,12 @@ namespace Portfolio.User_Controls
 {
     public partial class Heading : System.Web.UI.UserControl
     {
+        /**
+         * Public property to set text of the heading
+         *
+         * @property text
+         * @type String
+         */
         public string text { get; set; }
 
         protected void Page_Load(object sender, EventArgs e)

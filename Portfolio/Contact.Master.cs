@@ -17,7 +17,7 @@ namespace Portfolio
     public partial class Contact : System.Web.UI.MasterPage
     {
         /**
-         * Returns a reference to the text attribute of Heading uc
+         * Returns a reference to the text property of the Heading user control
          * 
          * @property Heading
          * @type string
